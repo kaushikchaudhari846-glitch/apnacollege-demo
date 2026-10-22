@@ -1,2 +1,4 @@
 # apnacollege-demo
-This is my first git repository-kaushik chaudhari
+This is my first git repository
+<BR>
+kaushik chaudhari
